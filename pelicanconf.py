@@ -6,9 +6,11 @@ AUTHOR = u'APIL'
 SITENAME = u'APILab'
 SITEURL = ''
 
+THEME = 'themes/bootstrap2'
+OUTPUT_PATH = 'output'
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'US/Arizona'
 
 DEFAULT_LANG = u'en'
 
